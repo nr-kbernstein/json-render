@@ -26,7 +26,7 @@
     "tailwindcss": "^4.1.18",
     "@upstash/ratelimit": "^2.0.8",
     "@upstash/redis": "^1.37.0",
-    "zod": "4.3.6",
+    "zod": "4.6.6",
     "@json-render/chat": "workspace:*",
     "@chat-adapter/slack": "^4.43.0",
     "@chat-adapter/teams": "^4.43.0",
