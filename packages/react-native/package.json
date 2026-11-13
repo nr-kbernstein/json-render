@@ -65,7 +65,7 @@
     "react-native": "0.83.1",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0",

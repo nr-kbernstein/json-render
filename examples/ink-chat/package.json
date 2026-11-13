@@ -16,7 +16,7 @@
     "@ai-sdk/gateway": "^3.0.52",
     "ink": "^6.8.0",
     "react": "19.2.4",
-    "zod": "4.3.6"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@types/react": "19.2.3",
